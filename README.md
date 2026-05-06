@@ -117,6 +117,6 @@ Este projeto foi desenvolvido com foco acadêmico para consolidar conhecimentos 
 
 ## 🚀 Autores
 
-Desenvolvido por **Isabel Baungartner** e **Maria Eduarda da Silva**
+Desenvolvido por **Isabel Baungartner** e **Maria Eduarda Fonseca Nascimento**
 
 🎓 Ciência de Dados e Inteligência Artificial — PUC Campinas
